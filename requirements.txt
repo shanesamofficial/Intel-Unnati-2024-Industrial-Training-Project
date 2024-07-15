@@ -1,7 +1,7 @@
 Flask==2.2.2
 flask-wtf==1.0.1
 transformers==4.30.2
-torch==2.0.1
+torch==2.3.1
 pandas==2.0.3
 scikit-learn==1.2.2
 sentence-transformers==2.2.2
@@ -9,3 +9,4 @@ PyMuPDF==1.22.3
 PyPDF2==3.0.1
 datasets==2.8.0
 easyocr==1.6.2
+numpy==2.0.0
